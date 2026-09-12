@@ -1,4 +1,4 @@
-About 
+About :
 The rapid growth of e-commerce platforms has resulted in a large volume of customer 
 reviews being generated daily. These reviews contain valuable information about product quality, 
 usability, and customer satisfaction, but manually analyzing such a massive amount of textual data 
@@ -23,7 +23,7 @@ automated sentiment classification. The project demonstrates how intelligent tex
 support decision making and enhance customer experience by extracting meaningful insights from 
 large-scale textual data.
 
-Objectives
+Objectives :
 Reduce customer waiting time
 Improve canteen operational efficiency
 Provide efficient food ordering and order management
@@ -32,7 +32,7 @@ Provide role-based access to the system
 Enhance the overall user experience
 Support data management and reporting
 
-Key Features
+Key Features :
 User authentication and authorization
 Food menu management
 Food ordering
@@ -43,7 +43,7 @@ Data analytics and reporting
 Intelligent system modules
 Computer vision integration
 
-Technologies Used
+Technologies Used :
 Frontend
 React
 HTML
@@ -54,7 +54,7 @@ Backend
 Node.js
 Express.js
 
-Advantages
+Advantages :
 Reduced waiting time
 Improved operational efficiency
 Accurate order processing
@@ -63,7 +63,7 @@ Enhanced user experience
 Role-based access control
 Data analytics and reporting
 
-Limitations
+Limitations :
 Dependency on internet connectivity
 Initial setup cost
 Hardware dependency for computer-vision features
@@ -71,7 +71,7 @@ Maintenance and technical support requirements
 Security risks
 Dependence on power supply
 
-Future Scope
+Future Scope :
 AI-based food recognition and quality analysis
 Smart queue management
 Active learning and system improvement
@@ -80,10 +80,8 @@ Skill-based staff management and upskilling
 Bias-free decision support
 Smart payment and billing system integration
 
-Applications
-
+Applications :
 Snacko can be adapted for:
-
 Educational institutions
 Corporate offices
 Hospitals and healthcare facilities
@@ -91,6 +89,7 @@ Food courts and restaurants
 Event management
 Smart campus systems
 Remote and online ordering systems
+
 
 Author
 Kunal Vijay Appa
